@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\bin\Debug\net8.0-windows\WinFormsApp1ChatMulti.exe
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\bin\Debug\net8.0-windows\WinFormsApp1ChatMulti.deps.json
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\bin\Debug\net8.0-windows\WinFormsApp1ChatMulti.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\bin\Debug\net8.0-windows\WinFormsApp1ChatMulti.dll
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\bin\Debug\net8.0-windows\WinFormsApp1ChatMulti.pdb
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.Form1.resources
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.AssemblyInfo.cs
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.dll
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\refint\WinFormsApp1ChatMulti.dll
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.pdb
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\WinFormsApp1ChatMulti.genruntimeconfig.cache
+C:\Users\User\source\repos\WinFormsApp1ChatMulti\WinFormsApp1ChatMulti\obj\Debug\net8.0-windows\ref\WinFormsApp1ChatMulti.dll
